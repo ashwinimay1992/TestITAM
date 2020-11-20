@@ -15,10 +15,8 @@
   "author": "Crest IT Consulting",
   "license": "ISC",
   "devDependencies": {
-    "csvtojson": "^2.0.10",
     "electron": "^8.4.1",
     "electron-builder": "^22.8.0",
-    "electron-log": "^4.2.2",
     "jquery": "^3.5.1",
     "mv": "^2.1.1",
     "node-disk-info": "^1.1.0",
@@ -32,8 +30,6 @@
     "systeminformation": "^4.26.10"
   },
   "dependencies": {
-    "csvtojson": "^2.0.10",
-    "electron-log": "^4.2.2",
     "electron-updater": "^4.3.5",
     "jquery": "^3.5.1",
     "mv": "^2.1.1",
