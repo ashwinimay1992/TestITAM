@@ -1,6 +1,6 @@
 {
   "name": "ePrompto-ITAM",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "description": "ITAM Desktop App for End User Automate",
   "main": "main.js",
   "scripts": {
@@ -21,8 +21,6 @@
     "electron-log": "^4.2.2",
     "jquery": "^3.5.1",
     "mv": "^2.1.1",
-    "mysql": "^2.18.1",
-    "node-cron": "^2.0.3",
     "node-disk-info": "^1.1.0",
     "node-machine-id": "^1.1.12",
     "node-os-utils": "^1.3.0",
@@ -39,8 +37,6 @@
     "electron-updater": "^4.3.5",
     "jquery": "^3.5.1",
     "mv": "^2.1.1",
-    "mysql": "^2.18.1",
-    "node-cron": "^2.0.3",
     "node-disk-info": "^1.1.0",
     "node-machine-id": "^1.1.12",
     "node-os-utils": "^1.3.0",
