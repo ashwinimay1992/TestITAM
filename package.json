@@ -1,6 +1,6 @@
 {
   "name": "ePrompto-ITAM",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "description": "ITAM Desktop App for End User Automate",
   "main": "main.js",
   "scripts": {
@@ -19,8 +19,6 @@
     "electron": "^8.4.1",
     "electron-builder": "^22.8.0",
     "electron-log": "^4.2.2",
-    "fs": "0.0.1-security",
-    "ip": "^1.1.5",
     "jquery": "^3.5.1",
     "mv": "^2.1.1",
     "mysql": "^2.18.1",
@@ -39,8 +37,6 @@
     "csvtojson": "^2.0.10",
     "electron-log": "^4.2.2",
     "electron-updater": "^4.3.5",
-    "fs": "0.0.1-security",
-    "ip": "^1.1.5",
     "jquery": "^3.5.1",
     "mv": "^2.1.1",
     "mysql": "^2.18.1",
